@@ -2,7 +2,7 @@
 
 # S03P08 Extract Email Address With RegEx
 
-This project is my solution in **C#** to the ** Extract email Address With RegEx** practice found in section 03 practice 08 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **Extract email Address With RegEx** practice found in section 03 practice 08 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
