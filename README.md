@@ -20,7 +20,18 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 ### Sample Output
 
-//ToDo Complete program and record output
+```
+07/23/2021 09:52:59 => [Debug] Execution started for project: RPADev-S03P08-ExtractEmailAddressRegEx
+07/23/2021 09:53:01 => [Info] RPADev-S03P08-ExtractEmailAddressRegEx execution started
+07/23/2021 09:53:02 => [Debug] john.doe@localcompany.com
+07/23/2021 09:53:02 => [Info] RPADev-S03P08-ExtractEmailAddressRegEx execution ended in: 00:00:01
+```
+
+### Notes
+
+This image shows the data type for the eMailMatches variable.
+
+![](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P08-ExtractEmailAddressRegEx-EmailMatchesVariableType.jpg)
 
 ### RPA Developer Foundation Sections
 
