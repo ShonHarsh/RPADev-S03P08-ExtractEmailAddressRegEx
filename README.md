@@ -71,6 +71,8 @@ This image shows the data type for the eMailMatches variable.
 
 5. UI Automation With Studio
 
+   P01 [RPADev-S05P01-PasswordGenerator](https://github.com/ShonHarsh/RPADev-S05P01-PasswordGenerator)
+
 6. Selectors In Studio
 
 7. Project Organization In Studio
