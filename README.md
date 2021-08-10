@@ -75,6 +75,12 @@ This image shows the data type for the eMailMatches variable.
 
    P02 [RPADev-S05P02-TheRPAChallenge](https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge)
 
+   P03 [RPADev-S05P03-InputActions](https://github.com/ShonHarsh/RPADev-S05P03-InputActions)
+
+   P04 [RPADev-S05P04-OutputActions](https://github.com/ShonHarsh/RPADev-S05P04-OutputActions)
+
+   P05 [RPADev-S05P05-DataScraping](https://github.com/ShonHarsh/RPADev-S05P05-DataScraping)
+
 6. Selectors In Studio
 
 7. Project Organization In Studio
