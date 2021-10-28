@@ -8,6 +8,14 @@ This project is my solution in **C#** to the **Extract email Address With RegEx*
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Extract the email address from a string (using RegEx)**
+
+Given a string containing one email address, create a workflow to extract the email address using regular expressions. 
+
+**Note:** For input please use a String variable with the following value “Please use the following address to contact me john.doe@localcompany.com, it's the company email"
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
